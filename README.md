@@ -8,12 +8,6 @@ KPT tool for your team.
 docker-compose up
 ```
 
-```
-bundle exec rails db:setup
-yarn
-bin/server
-```
-
 # Test
 
 ```
